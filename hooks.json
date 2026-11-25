@@ -1,0 +1,11 @@
+{
+  "session-namer": {
+    "SessionStart": [
+      {
+        "type": "command",
+        "command": "python -X utf8 scripts/session_start_namer.py",
+        "timeout": 10
+      }
+    ]
+  }
+}

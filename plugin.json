@@ -1,0 +1,16 @@
+{
+  "name": "agy-session-namer",
+  "displayName": "Session Namer (半自动会话命名)",
+  "version": "0.1.0",
+  "description": "Standardize new Antigravity session titles via a SessionStart hook: appends a concise '模块名|持续目标' (<=24 chars) title suggestion once on the first turn.",
+  "author": {
+    "name": "hekinya",
+    "url": "https://github.com/hekinya"
+  },
+  "repository": "https://github.com/hekinya/agy-session-namer",
+  "suggestedPrompts": [
+    "帮我排查当前项目的构建报错并梳理修复方案",
+    "给这个模块设计一套自动化测试方案并落地",
+    "整理当前仓库的目录结构并补齐开发文档"
+  ]
+}
